@@ -1,5 +1,5 @@
 "use strict";
-
+// starts here
 let canvas, width, height, ctx;
 let fireworks = [];
 let particles = [];
